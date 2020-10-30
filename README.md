@@ -20,3 +20,4 @@
 ## 🙇 Special Thanks
  - [Florinpop](https://github.com/florinpop17)
  - [UI Design Daily](https://uidesigndaily.com/posts/photoshop-profile-card-user-day-286) 
+ - [And You](https://github.com/Andriana7)
